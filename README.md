@@ -4,7 +4,7 @@ MFR - Memory Find and Replace is an open source memory manipulation tool. It is 
 
 Usage
 ---
-python3 mfr.py app.package.name -f textToFind -r textToReplace
+      python3 mfr.py app.package.name -f textToFind -r textToReplace 
 
 
 Important
